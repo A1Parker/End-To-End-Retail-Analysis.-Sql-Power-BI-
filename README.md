@@ -2,6 +2,14 @@
 
 # 🛍️ Retail Sales Analysis Dashboard
 
+## 📈 Dashboard Preview
+![Dashboard Preview](Home_Page.png)
+![Dashboard Preview](Customer_Level_Analysis.png)
+![Dashboard Preview](Sales_Analysis.png)
+![Dashboard Preview](Store_Level_Analysis.png)
+![Dashboard Preview](Product_Level_Analysis.png)
+![Dashboard Preview](Customer_Satisfaction_Analysis.png)
+
 ## 📌 Project Overview
 This project is an **end-to-end retail data analytics solution** designed to provide actionable insights into **sales, customer behavior, and store performance**.  
 It integrates **SQL for data cleaning & processing**, **Python for advanced analysis**, and **Power BI for interactive dashboards**.
@@ -57,7 +65,7 @@ The dataset consists of 4 main tables:
    - Sales trends by **day, week, month, quarter**.
    - Weekday vs. weekend performance.
    - Top 10 products & customers by revenue.
-
+     
 4. **Dashboard Creation**  
    - Built **interactive Power BI visuals** for executives.
    - Enabled dynamic filtering by **time, region, store, product**.
@@ -72,8 +80,7 @@ The dataset consists of 4 main tables:
 
 ---
 
-## 📈 Dashboard Preview
-![Dashboard Preview](Home_Page.png)
+
 
 ---
 
