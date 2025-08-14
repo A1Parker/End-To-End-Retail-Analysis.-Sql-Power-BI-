@@ -73,7 +73,7 @@ The dataset consists of 4 main tables:
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Home_Page.png)
 
 ---
 
